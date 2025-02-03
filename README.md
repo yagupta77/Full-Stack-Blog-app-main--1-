@@ -95,8 +95,5 @@ A simple blog application built using React.js for the frontend, Node.js + Expre
   "updatedAt": "2025-02-03T10:00:00.000Z"
 }
 
-### How to Customize the README
 
-- Replace the repository links (`https://github.com/yourusername/blog-backend.git`) with your actual repository URLs.
-- Modify any information specific to your implementation or project goals.
 
